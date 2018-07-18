@@ -9,7 +9,8 @@ En lançant ce script, vous pouvez choisir entre 2 options:
   - soit de lancer juste un listener
 
 D'autre options s'ajouteront par la suite comme:
-  - pouvoir utilisé facilement le scanneur nmap intégré à Metasploit (+ exporter les contenu dans un fichier log)
+  - utiliser les différents types de auxiliary/scanner pour faciliter la prise d'info.
+  - utiliser les hosts enregistrés de sa db après les scans pour créer un payload ciblé.
   - ...
 
 
