@@ -122,7 +122,7 @@ def recup_infos(choix):
 			listener(payload_name, ip, port)
 			break
 		elif:
-			print("[NEWS] Les nouveautés que je compte mettre:\n\n- Scanneur nmap via metasploit (avec logs)\n- Ajoutez plus d'options durant le génération du payload\n")
+			print("[NEWS] Les nouveautés que je compte mettre:\n\n- Scanneur de ports TCP (SYN, ACK)\n- Ajoutez plus d'options durant le génération du payload\n")
 		else:
 			print("[ERROR] Ce choix n'existe pas :/")
 	print("\n\n[^^] Merci d'avoir utilisé mon script\n\n")
